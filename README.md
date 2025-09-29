@@ -18,6 +18,8 @@ Baixe os gridmaps anuais de CO₂:
   🔗  <a href="https://ads.atmosphere.copernicus.eu/cdsapp#!/dataset/cams-global-ghg-reanalysis-egg4 " target="_blank"><img  src="https://ads.atmosphere.copernicus.eu/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcopernicus.3cdaca12.png&w=96&q=75" target="_blank"></a>
 </div>
 
+<br>
+
 ## 📊 Funcionalidades
 
 - Leitura e organização de dados de emissões (EDGAR ou simulados).
@@ -25,8 +27,15 @@ Baixe os gridmaps anuais de CO₂:
 - Análise estatística de tendência (regressão linear + p-valor).
 - Geração de gráficos de séries temporais.
 - Conclusão automática: **aumentou ou diminuiu**?
+<br>
 
----
+## Gráfico: Emissões de CO2 - Maceió - 2010 - 2025 (Gráficos Fictícios)
+<div>
+  <img align = "left" alt = "Ash-Co2" height = "800", width="1000" border= "6px;" src = "https://github.com/AshOrlowska/Co2-Maceio/blob/Master/Emiss%C3%B5es%20de%20CO2%20-%20Macei%C3%B3%20-%202010%20-%202025.png?raw=true">
+</div>
+ㅤ
+
+<br>
 
 ## 🚀 Tecnologias Utilizadas
 
